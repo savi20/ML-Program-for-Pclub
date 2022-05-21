@@ -8,4 +8,7 @@ Pandas; initialy we need to import pandas library to import the reviews data set
 for this we use:
 >>>import pandas as pd
 >>>data=pd.read_csv(spam.csv)
-### preprocessing dataset:
+### Preprocessing dataset:
+### Vectorization
+### Training and classification
+### Model evaluation
